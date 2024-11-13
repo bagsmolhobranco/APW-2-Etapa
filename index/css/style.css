@@ -1,0 +1,17 @@
+body {
+    background-color: lightcoral;
+}
+
+img{
+    max-height: 450px;
+   
+}
+
+
+
+#carrosel{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    align-self: center;
+}
